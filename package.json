@@ -1,0 +1,24 @@
+{
+  "name": "festival",
+  "version": "1.0.0",
+  "description": "Aprendiendo SASS y NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Admaal/VibraFest.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "Gulp"
+  ],
+  "author": "A.David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Admaal/VibraFest/issues"
+  },
+  "homepage": "https://github.com/Admaal/VibraFest#readme"
+}
